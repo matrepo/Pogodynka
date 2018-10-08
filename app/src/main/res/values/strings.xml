@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pogodynka</string>
+    <string name="open_weather_maps_app_id">626c42c79747ed88efafe65b9c83da88</string>
+</resources>

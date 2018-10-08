@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sections">
+        <item >Warta</item>
+        <item >Warszawa</item>
+        <item >Tokyo</item>
+        <item >Amsterdam</item>
+        <item >Berlin</item>
+        <item >Praga</item>
+        <item >Detroit</item>
+        <item >Pekin</item>
+        <item >Bartochów</item>
+        <item >Moskwa</item>
+    </string-array>
+</resources>
